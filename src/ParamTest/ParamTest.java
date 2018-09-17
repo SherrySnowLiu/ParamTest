@@ -11,6 +11,6 @@ public class ParamTest {
 
     private static void tripieValue(double x) {
         x = 3 * x;
-        System.out.println("End of method: x = " + x);
+        System.out.println("End of method : x = " + x);
     }
 }
